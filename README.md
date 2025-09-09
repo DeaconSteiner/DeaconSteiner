@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeaconSteiner
 - 👀 I’m interested in ... Math, Data Science, Algorithms, Games, Tech, New Experiences
-- 🌱 I’m currently learning ... Python- focusing on applications for data science and ai development, Spanish- Personal and developmental growth
+- 🌱 I’m currently learning ... C++ focusing on data structures and algorithms, Spanish- Personal and developmental growth
 - 💞️ I’m looking to collaborate on ... Honestly anything, I'm a new programmer looking to learn and contribute in any way possible
 - 📫 How to reach me ... Github: @DeaconSteiner, Twitter: @DeaconSteiner, Instagram: Dsteiner210
 - 😄 Pronouns: ... He/Him
